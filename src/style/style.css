@@ -1,0 +1,25 @@
+.componentContainer {
+  border-radius: 18px;
+  border: solid 1px white;
+  background-color: white;
+  padding-block-end: 15%;
+  padding: 2% 4%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.firstRowDiv {
+  justify-content: space-around;
+}
+.logo {
+  width: 35px;
+  height: 35px;
+}
+.symbol {
+  font-size: 15px;
+  color: black;
+  padding-left: 5%;
+}
+.name {
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.452);
+  padding-left: 5%;
+}
